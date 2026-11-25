@@ -8,6 +8,18 @@ A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej 
 
 English | [简体中文](./README.zh.md)
 
+## At a glance
+
+```mermaid
+flowchart LR
+    N0["Think before coding"]
+    N1["Choose the simplest solution"]
+    N2["Make surgical changes"]
+    N3["Verify the goal"]
+    N0 --> N1 --> N2 --> N3
+```
+
+
 ## The Problems
 
 From Andrej's post:
